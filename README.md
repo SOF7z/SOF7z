@@ -21,11 +21,28 @@ Here are some ideas to get you started:
 update profile readme with update
 -->
 
-🔭 I’m currently working on SOF7z/Course
+<div align="center">
+  <i>"Menjelajahi dunia kode, satu proyek demi satu. Mengubah kopi menjadi barisan kode dan ide menjadi kenyataan!" 🚀</i>
+</div>
 
-##### Skill
+<br>
+
+- 🔭 **Sedang mengerjakan:** Proyek-proyek seru yang menantang
+- 🌱 **Sedang mempelajari:** Teknologi terbaru dan AI
+- 💡 **Minat:** Web Development, Open Source, dan inovasi teknologi
+- ⚡ **Fakta unik:** Saya bisa ngoding berjam-jam kalau sudah fokus! ☕
+
+## SKILLS
+
+##### 🌐Languages
 
 <p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,c,)](https://skillicons.dev)
+
+</p>
+
+<!-- <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,6 +50,43 @@ update profile readme with update
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p> -->
+
+##### 🚀 Frameworks & Library 🔝
+
+<p>
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+##### 🤖Artificial Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" />
+</p>
+
+##### ☁️Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+
+</p>
+
+##### Microsoft
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
 ##### Contact with me
@@ -46,14 +100,25 @@ update profile readme with update
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 
-<a href="mailto:[sof7z.online@gmail.com]" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="https://wa.me/62895806614419" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
 </a>
 
 <a href="https://threads.net/@sof7z197_" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
 </a>
+
+<a href="mailto:sof7z.online@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://discord.gg/fP3j5sV3sD" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
 </p>
+
+---
 
 ##### My Github Stats
 
