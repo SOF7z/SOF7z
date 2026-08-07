@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<picture data-importer="pacman">
+<picture data-importer="arcade">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOF7z/SOF7z/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOF7z/SOF7z/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SOF7z/SOF7z/pacman-output/pacman-contribution-graph.svg?game=pacman">
