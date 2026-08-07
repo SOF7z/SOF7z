@@ -38,10 +38,21 @@ update profile readme with update
 ##### Contact with me
 
 <p>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://instagram.com/sof7z197_" target="_blank" />
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" href="https://tiktok.com/@sof7z197_" target="_blank" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="[sof7z.online@gmail.com]" target="_blank" />
-<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" href="https://threads.net/@sof7z197_" target="_blank" />
+<a href="https://instagram.com/sof7z197_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://tiktok.com/@sof7z197_" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a>
+
+<a href="mailto:[EMAIL_ADDRESS]" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://threads.net/@sof7z197_" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
+</a>
 </p>
 
 ##### My Github Stats
