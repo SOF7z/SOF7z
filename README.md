@@ -21,18 +21,7 @@ Here are some ideas to get you started:
 update profile readme with update
 -->
 
-<div align="center">
-  <i>"Menjelajahi dunia kode, satu proyek demi satu. Mengubah kopi menjadi barisan kode dan ide menjadi kenyataan!" 🚀</i>
-</div>
-
-<br>
-
-- 🔭 **Sedang mengerjakan:** Proyek-proyek seru yang menantang
-- 🌱 **Sedang mempelajari:** Teknologi terbaru dan AI
-- 💡 **Minat:** Web Development, Open Source, dan inovasi teknologi
-- ⚡ **Fakta unik:** Saya bisa ngoding berjam-jam kalau sudah fokus! ☕
-
-## SKILLS
+## 🔧SKILL
 
 ##### 🌐Languages
 
@@ -64,6 +53,14 @@ update profile readme with update
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
+##### 📝Text Editor
+
+<p>
+<img src="https://img.shields.io/badge/Antigravity-0F0F0F?style=for-the-badge&logo=antigravity&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Sublime_Text-982D0C?style=for-the-badge&logo=sublime-text&logoColor=white" />
+</p>
+
 ##### 🤖Artificial Intelligence
 
 <p>
@@ -81,15 +78,16 @@ update profile readme with update
 
 </p>
 
-##### Microsoft
+##### 💻Office
 
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
-##### Contact with me
+### Contact with me
 
 <p>
 <a href="https://instagram.com/sof7z197_" target="_blank">
@@ -118,9 +116,7 @@ update profile readme with update
 
 </p>
 
----
-
-##### My Github Stats
+### My Github Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=SOF7z&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
