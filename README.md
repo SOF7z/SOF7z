@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 update profile readme with update
 -->
 
+### 💻 Selamat Datang di Profil Saya!
+
+Saya seorang **Web Developer** yang hobi merancang dan membangun sistem web yang responsif, cepat, dan mudah digunakan.
+
+- 🛠️ **Spesialisasi:** Mengerjakan backend & frontend dengan ekosistem PHP, JavaScript, dan basis data SQL.
+- ⚡ **Prinsip:** Menulis kode yang rapi (_clean code_), efisien, serta memanfaatkan _tools_ AI modern untuk hasil maksimal.
+- 📬 **Mari Terhubung:** Terbuka untuk proyek baru, kolaborasi, atau sekadar diskusi santai seputar dunia pemrograman.
+
 ## 🔧SKILL
 
 ##### 🌐Languages
@@ -53,14 +61,6 @@ update profile readme with update
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-##### 📝Text Editor
-
-<p>
-<img src="https://img.shields.io/badge/Antigravity-0F0F0F?style=for-the-badge&logo=antigravity&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Sublime_Text-982D0C?style=for-the-badge&logo=sublime-text&logoColor=white" />
-</p>
-
 ##### 🤖Artificial Intelligence
 
 <p>
@@ -69,6 +69,22 @@ update profile readme with update
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" />
 <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" />
+</p>
+
+##### ⚙️Operation System
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,arch,kali,&theme=light)](https://skillicons.dev)
+
+##### 📹Video Editor
+
+[![My Skills](https://skillicons.dev/icons?i=pr,ae,ps)](https://skillicons.dev)
+
+##### 📝Text Editor
+
+<p>
+<img src="https://img.shields.io/badge/Antigravity-0F0F0F?style=for-the-badge&logo=antigravity&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Sublime_Text-982D0C?style=for-the-badge&logo=sublime-text&logoColor=white" />
 </p>
 
 ##### ☁️Cloud
