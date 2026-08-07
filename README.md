@@ -46,7 +46,7 @@ update profile readme with update
 
 ##### My Github Stats
 
-![](https://github-readme-stats.shion.dev/api?username=SOF7z&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=SOF7z&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=SOF7z&theme=merko&hide_border=false)<br/>
 
