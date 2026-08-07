@@ -42,3 +42,17 @@ Here are some ideas to get you started:
 ![SOF7z's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SOF7z&show_icons=true&theme=dark)
 
 ![SOF7z's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOF7z&theme=react-dark)
+
+##### Game
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/SOF7z/SOF7z/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOF7z/SOF7z/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOF7z/SOF7z/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SOF7z/SOF7z/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
