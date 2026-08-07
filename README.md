@@ -2,6 +2,8 @@
 
 ![SOF7z](img/banner.png)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
 **SOF7z/SOF7z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+update profile readme with update
 -->
 
 🔭 I’m currently working on SOF7z/Course
@@ -42,9 +46,17 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-![SOF7z's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SOF7z&show_icons=true&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=SOF7z&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=SOF7z&theme=merko&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SOF7z&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![SOF7z's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SOF7z&theme=react-dark)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=SOF7z&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ##### Game
 
