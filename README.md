@@ -28,7 +28,7 @@ Saya seorang **Web Developer** yang hobi merancang dan membangun sistem web yang
 - 🛠️ **Spesialisasi:** Mengerjakan backend & frontend dengan ekosistem PHP, JavaScript, dan basis data SQL.
 - ⚡ **Prinsip:** Menulis kode yang rapi (_clean code_), efisien, serta memanfaatkan _tools_ AI modern untuk hasil maksimal.
 - 📬 **Mari Terhubung:** Terbuka untuk proyek baru, kolaborasi, atau sekadar diskusi santai seputar dunia pemrograman.
-- 📬 **Website Saya:** [Muhammad Fadly Dzil Ikram](https://sof7z.online)
+- 📬 **Website Saya:** [Muhammad Fadly Dzil Ikram](https://sof7z.com)
 
 ## 🔧SKILL
 
